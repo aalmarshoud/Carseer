@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CarseerAssignment/.vs/CarseerAssignment/DesignTimeBuild/.dtbcache.v2
+/CarseerAssignment/.vs/CarseerAssignment/FileContentIndex/49f874ef-2da0-4837-8034-a2daa92b88c3.vsidx
+/CarseerAssignment/.vs/CarseerAssignment/FileContentIndex/a1c4802c-ba06-4ba5-a1f5-a0c4af983a4e.vsidx
+/CarseerAssignment/.vs/CarseerAssignment/v17/.futdcache.v2
+/CarseerAssignment/.vs/CarseerAssignment/v17/.suo
+/CarseerAssignment/.vs/CarseerAssignment/v17/DocumentLayout.json
+/CarseerAssignment/.vs/ProjectEvaluation/carseerassignment.metadata.v7.bin
+/CarseerAssignment/.vs/ProjectEvaluation/carseerassignment.projects.v7.bin
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/appsettings.Development.json
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/appsettings.json
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/CarseerAssignment.deps.json
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/CarseerAssignment.dll
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/CarseerAssignment.exe
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/CarseerAssignment.pdb
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/CarseerAssignment.runtimeconfig.json
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/CarseerAssignment/CarseerAssignment/obj/Debug/net8.0
+/CarseerAssignment/.vs/CarseerAssignment
