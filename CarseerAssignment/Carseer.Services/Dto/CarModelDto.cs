@@ -8,7 +8,6 @@ namespace Carseer.Services.Dto
 {
     public class CarModelDto
     {
-        public string MakeName { get; set; }
-        public string ModelName { get; set; }
+        public List<string> Models { get; set; }
     }
 }

@@ -9,6 +9,6 @@ namespace Carseer.Services.Service
 {
     public interface ICarModelService
     {
-        Task<List<CarModelDto>> GetCarModelAsync(int makeId, int modelYear);
+        Task<CarModelDto> GetCarModelAsync(int makeId, int modelYear);
     }
 }

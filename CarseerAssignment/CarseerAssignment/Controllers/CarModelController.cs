@@ -16,7 +16,7 @@ namespace CarseerAssignment.Controllers
         }
 
         [HttpGet]
-        public async Task<List<CarModelDto>> GetCarModels([FromQuery] int makeId, [FromQuery]  int modelYear)
+        public async Task<CarModelDto> GetCarModels([FromQuery] int makeId, [FromQuery]  int modelYear)
         {
             return await _carModelService.GetCarModelAsync(makeId, modelYear);
         }
