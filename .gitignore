@@ -23,3 +23,7 @@
 /CarseerAssignment/CarseerAssignment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /CarseerAssignment/CarseerAssignment/obj/Debug/net8.0
 /CarseerAssignment/.vs/CarseerAssignment
+/CarseerAssignment/Carseer.Services/obj
+/CarseerAssignment/CarseerAssignment/obj/CarseerAssignment.csproj.nuget.dgspec.json
+/CarseerAssignment/CarseerAssignment/obj/project.assets.json
+/CarseerAssignment/CarseerAssignment/obj/project.nuget.cache
